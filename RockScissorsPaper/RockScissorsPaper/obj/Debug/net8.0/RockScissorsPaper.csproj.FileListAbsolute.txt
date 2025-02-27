@@ -1,0 +1,14 @@
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\bin\Debug\net8.0\RockScissorsPaper.exe
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\bin\Debug\net8.0\RockScissorsPaper.deps.json
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\bin\Debug\net8.0\RockScissorsPaper.runtimeconfig.json
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\bin\Debug\net8.0\RockScissorsPaper.dll
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\bin\Debug\net8.0\RockScissorsPaper.pdb
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\RockScissorsPaper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\RockScissorsPaper.AssemblyInfoInputs.cache
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\RockScissorsPaper.AssemblyInfo.cs
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\RockScissorsPaper.csproj.CoreCompileInputs.cache
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\RockScissorsPaper.dll
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\refint\RockScissorsPaper.dll
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\RockScissorsPaper.pdb
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\RockScissorsPaper.genruntimeconfig.cache
+C:\Users\pfenn\source\repos\RockScissorsPaper\RockScissorsPaper\RockScissorsPaper\obj\Debug\net8.0\ref\RockScissorsPaper.dll
